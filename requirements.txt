@@ -1,0 +1,10 @@
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.7
+
+sentence-transformers==2.6.1
+faiss-cpu==1.9.0
+
+neo4j==5.17.0
+python-dotenv==1.0.1
+tqdm==4.66.2
